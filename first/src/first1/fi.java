@@ -6,6 +6,8 @@ public class fi {
     System.out.println("hello pratibha");
     
     System.out.println("hello pratibha");
+    System.out.println("hello pratibha");
+    System.out.println("hello pratibha");
 	}
 
 }
